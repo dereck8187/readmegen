@@ -37,4 +37,4 @@ This application is covered by the ${answers.license} license.
 _This README was generated  [README-generator](https://github.com/dereck8187/readmegen) 
     `;
   }
-  
+  module.exports = generateReadme
